@@ -1,0 +1,6 @@
+{
+  "name": "MQ Tahfidz",
+  "description": "Aplikasi portal resmi MQ DaSister Tahfidz beserta indeks 30 Juz, 114 Surah, kalkulator target hafalan, dan penghitung tikrar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

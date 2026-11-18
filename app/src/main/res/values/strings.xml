@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MQ Tahfidz</string>
+    <string name="nav_portal">Portal MQ</string>
+    <string name="nav_quran_index">Indeks Juz</string>
+    <string name="nav_tools">Alat Tahfidz</string>
+
+    <string name="portal_title">Portal Tahfidz MQ</string>
+    <string name="portal_subtitle_default">mq.dasister.com/tahfidz/home</string>
+    <string name="portal_back">Kembali</string>
+    <string name="portal_forward">Maju</string>
+    <string name="portal_reload">Muat ulang halaman</string>
+    <string name="portal_fullscreen_enter">Layar penuh</string>
+    <string name="portal_fullscreen_exit">Keluar layar penuh</string>
+    <string name="portal_menu_more">Menu portal</string>
+    <string name="portal_home_shortcut">Beranda Tahfidz</string>
+    <string name="portal_mq_root">Portal Utama MQ</string>
+    <string name="portal_dasister_root">DaSister Pusat</string>
+    <string name="portal_share">Bagikan tautan</string>
+    <string name="portal_open_browser">Buka di peramban</string>
+    <string name="portal_clear_cache">Bersihkan tembolok</string>
+    <string name="portal_download_started">Mengunduh berkas ke folder Downloads…</string>
+    <string name="portal_download_failed">Gagal memulai unduhan berkas</string>
+    <string name="portal_cache_cleared">Tembolok peramban dibersihkan</string>
+
+    <string name="portal_error_title">Koneksi Portal Terputus</string>
+    <string name="portal_error_subtitle">Tidak dapat menjangkau server MQ DaSister saat ini. Periksa koneksi internet Anda lalu coba muat ulang.</string>
+    <string name="portal_retry">Muat Ulang Portal</string>
+    <string name="portal_go_offline_tools">Buka Indeks Juz Offline</string>
+
+    <string name="index_hero_title">Indeks Al-Qur\'an</string>
+    <string name="index_hero_subtitle">30 Juz • 114 Surah • 6.236 Ayat</string>
+    <string name="index_search_hint">Cari nama surah, nomor, atau arti…</string>
+    <string name="index_tab_surah">114 Surah</string>
+    <string name="index_tab_juz">30 Juz</string>
+    <string name="index_filter_all">Semua</string>
+    <string name="index_filter_makkiyah">Makkiyah</string>
+    <string name="index_filter_madaniyah">Madaniyah</string>
+    <string name="index_filter_juz30">Juz 30</string>
+    <string name="index_empty_title">Surah tidak ditemukan</string>
+    <string name="index_empty_desc">Coba kata kunci lain seperti Al-Mulk, Yasin, atau Juz 30.</string>
+    <string name="index_clear_filter">Reset pencarian</string>
+    <string name="index_ayat_suffix">Ayat</string>
+    <string name="index_juz_prefix">Juz</string>
+    <string name="index_send_to_calc">Hitung di Kalkulator</string>
+    <string name="index_close">Tutup</string>
+
+    <string name="tools_title">Pendamping Tahfidz</string>
+    <string name="tools_subtitle">Alat bantu tikrar, target khatam, dan tampilan</string>
+    <string name="tikrar_title">Penghitung Tikrar &amp; Murajaah</string>
+    <string name="tikrar_subtitle">Ketuk lingkaran untuk menghitung ulangan hafalan</string>
+    <string name="tikrar_tap_hint">Ketuk +1</string>
+    <string name="tikrar_reset">Ulang</string>
+    <string name="tikrar_target_label">Target Ulangan</string>
+    <string name="tikrar_target_reached">Target tercapai!</string>
+    <string name="timer_start">Mulai</string>
+    <string name="timer_pause">Jeda</string>
+    <string name="timer_reset">Reset</string>
+
+    <string name="calc_title">Kalkulator Target Hafalan</string>
+    <string name="calc_subtitle">Standar Mushaf Utsmani (20 hal/Juz • 15 baris/hal)</string>
+    <string name="calc_target_juz">Target Juz</string>
+    <string name="calc_duration_days">Durasi (Hari)</string>
+    <string name="calc_pages_per_day">Halaman / Hari</string>
+    <string name="calc_lines_per_day">Baris / Hari</string>
+    <string name="calc_per_prayer">Per Waktu Sholat</string>
+    <string name="calc_est_finish">Estimasi Khatam</string>
+
+    <string name="settings_title">Preferensi Aplikasi</string>
+    <string name="settings_theme_label">Tema Tampilan</string>
+    <string name="settings_theme_system">Sistem</string>
+    <string name="settings_theme_light">Terang</string>
+    <string name="settings_theme_dark">Gelap</string>
+    <string name="settings_immersive_portal">Mode Layar Penuh Otomatis di Portal</string>
+    <string name="settings_immersive_desc">Sembunyikan bilah navigasi saat melihat dasbor portal web</string>
+</resources>
